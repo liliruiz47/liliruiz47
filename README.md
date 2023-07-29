@@ -11,6 +11,7 @@ a capacitarme y a desarrollar proyectos que me permitar aumentar mi experiencia 
  la creación de soluciones que impacten positivamente en la vida de las personas. Em el tiempo el desarrollo de codigo me he interesado en experimentar en todas las etapas del ciclo de vida del desarrollo, lo que me permite aportar una visión integral a cada proyecto en el que me involucro.
 
 - 💬 Habilidades técnicas:
+  
 Lenguajes de programación: Me siento cómoda trabajando con lenguajes como JavaScript (Node.js, React.js).
 
 Bases de datos: Experiencia en el diseño y administración de bases de datos PostgreSQL.
