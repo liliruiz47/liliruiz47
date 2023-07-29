@@ -16,7 +16,7 @@ Bases de datos: Experiencia en el diseño y administración de bases de datos Po
 Desarrollo frontend: Creación de interfaces de usuario atractivas y responsivas utilizando JavaScript, Redux, CSS..
 Desarrollo backend: Construcción de APIs escalables para conectar el frontend con el servidor.
 
-- 📫 Te puedes comunicar conmigo ...
+- 📫 Te puedes contactar conmigo ...
  liliana.ruiz@yahoo.com
- Ln www.linkedin.com/in/liliana-ruiz-rengifo-67a16059
+ www.linkedin.com/in/liliana-ruiz-rengifo-67a16059
 
