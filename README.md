@@ -12,8 +12,11 @@ a capacitarme y a desarrollar proyectos que me permitar aumentar mi experiencia 
 
 - 💬 Habilidades técnicas:
 Lenguajes de programación: Me siento cómoda trabajando con lenguajes como JavaScript (Node.js, React.js).
+
 Bases de datos: Experiencia en el diseño y administración de bases de datos PostgreSQL.
+
 Desarrollo frontend: Creación de interfaces de usuario atractivas y responsivas utilizando JavaScript, Redux, CSS..
+
 Desarrollo backend: Construcción de APIs escalables para conectar el frontend con el servidor.
 
 - 📫 Te puedes contactar conmigo ...
