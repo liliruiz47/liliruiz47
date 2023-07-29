@@ -1,9 +1,5 @@
  Hola!! 👋 Soy Liliana Ruiz
 
-<!--   
-**liliruiz47/liliruiz47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Quien Soy? 
   Soy ingeniera de sistemas y programadora FullStack me inclino hacia el front-end y el back-end, en constante estudio y actualizacion, pienso que el desarrollo de codigo es todo un universo de posibilidades por explorar y experimentar.
